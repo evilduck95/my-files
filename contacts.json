@@ -1,0 +1,54 @@
+
+
+ContactGroups = [
+  {
+
+    "groupname" : "firstgroup",
+    "contacts"  : [
+
+      {
+         "name"   : "dave",
+         "number" : "07123456786",
+      },
+
+      {
+         "name"   : "mike",
+         "number" : "07123456785",
+      },
+
+      {
+         "name"   : "steve",
+         "number" : "07123456784",
+      },
+
+    ]
+
+
+  },
+
+  {
+
+    "groupname" : "secondgroup",
+    "contacts"  : [
+
+      {
+         "name"   : "notdave",
+         "number" : "07123456783",
+      },
+
+      {
+         "name"   : "notmike",
+         "number" : "07123456782",
+      },
+
+      {
+         "name"   : "notsteve",
+         "number" : "07123456781",
+      },
+
+    ]
+
+  },
+
+
+]

@@ -1,0 +1,47 @@
+
+
+DefaultMessages = [{
+
+			"title": "First Message",
+			"body": "Hello, this is the first default message.",
+
+		},
+
+		{
+
+			"title": "Second Message",
+			"body": "Hello again, this is the second message, it comes after the first!",
+
+		},
+
+		{
+
+			"title": "Third Message",
+			"body": "Hello again, this is the third message, it comes after the first!",
+
+		},
+
+		{
+
+			"title": "Fourth Message",
+			"body": "Hello again, this is the fourth message, it comes after the first!",
+
+		},
+
+		{
+
+			"title": "Fifth Message",
+			"body": "Hello again, this is the fifth message, it comes after the first!",
+
+		},
+
+		{
+
+			"title": "Sixth Message",
+			"body": "Hello again, this is the sixth message, it comes after the first!",
+
+		},
+
+
+
+];
