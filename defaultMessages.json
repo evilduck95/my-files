@@ -1,6 +1,6 @@
 
 
-DefaultMessages = [{
+"DefaultMessages": [{
 
 			"title": "First Message",
 			"body": "Hello, this is the first default message.",
