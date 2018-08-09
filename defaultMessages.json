@@ -1,6 +1,6 @@
 
-
-"defaultMessages" [{
+{
+"DefaultMessages": [{
 			"title": "First Message",
 			"body": "Hello, this is the first default message.",
 		},
@@ -29,4 +29,4 @@
 			"title": "Sixth Message",
 			"body": "Hello again, this is the sixth message, it comes after the first!",
 		},
-]
+]}
