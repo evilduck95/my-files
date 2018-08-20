@@ -1,5 +1,4 @@
 [{
-  "messages": [{
 
       "title": "First Message",
       "body": "Hello, this is the first default message."
@@ -39,5 +38,4 @@
       "body": "Hello again, this is the sixth message, it comes after the first!"
 
     }
-  ]
-}]
+]
